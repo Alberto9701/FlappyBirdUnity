@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/CURSOS/Cursos de unity y proyectos/intento de juego/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
